@@ -1,0 +1,57 @@
+
+/*===================MENU==========================*/
+
+ #menu a, button{
+     font-size: 18px !important;
+     font-weight: 600;
+    
+ }
+
+ #menu a{
+     color:#181616;
+     
+ }
+/*==================CARRUSEL==========================*/
+
+.carousel-inner {
+    max-height:39rem !important;
+}
+
+#img-equipo{
+    max-height:30rem !important;
+    width:50%;
+}
+
+
+
+/*===========================CENTRAR TEXTO==================================*/
+.text-center {
+    text-align: center;
+  }
+  
+/*=========================TAMAÑOS DE VIDEOS================================*/
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  iframe {
+    width: 560px;
+    height: 315px;
+    margin: 32px; /* Espacio entre los videos */
+  }
+
+
+/*=========================FOOTER================================*/
+
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+
